@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Paddy\Desktop\Final Version\Unit 1\String Search Comparison\strings\main.cpp(104,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Paddy\Desktop\Final Version\Unit 1\String Search Comparison\strings\main.cpp(104,43): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Paddy\Desktop\Final Version\Unit 1\String Search Comparison\strings\main.cpp(114,26): warning C4244: 'argument': conversion from 'Position' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  stringSearch.cpp
+  Generating Code...
+  strings.vcxproj -> C:\Users\Paddy\Desktop\Final Version\Unit 1\String Search Comparison\x64\Debug\strings.exe
